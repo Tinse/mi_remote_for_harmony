@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "RCProbe key interception probe"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "RCProbe main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RCProbe"
+    },
+    {
+      "name": "keep_bg_reason",
+      "value": "M2b: keep the BLE remote-control key probe alive in background"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "probecore",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

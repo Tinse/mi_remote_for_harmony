@@ -1,0 +1,9 @@
+{
+  "name": "probecore",
+  "version": "1.0.0",
+  "description": "Shared key-event acquisition / reporting core for M1, M2 and M3",
+  "main": "Index.ets",
+    "author": "rcprobe",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

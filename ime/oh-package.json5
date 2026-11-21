@@ -1,0 +1,11 @@
+{
+  "name": "ime",
+  "version": "1.0.0",
+  "description": "RCProbe input-method HAP (M3): self-drawn soft keyboard + physical key observation",
+  "main": "",
+  "author": "rcprobe",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "probecore": "file:../probecore"
+  }
+}

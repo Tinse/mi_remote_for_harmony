@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "ime_module_desc",
+      "value": "RCProbe IME module"
+    },
+    {
+      "name": "ime_label",
+      "value": "RCProbe Ime"
+    },
+    {
+      "name": "ime_desc",
+      "value": "RCProbe key probe input method"
+    },
+    {
+      "name": "ime_subtype_label",
+      "value": "RCProbe 探针键盘"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "RCProbe main HAP: M1 foreground / M2 background probe UI",
+  "main": "",
+  "author": "rcprobe",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "probecore": "file:../probecore"
+  }
+}

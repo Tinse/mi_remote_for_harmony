@@ -1,0 +1,2 @@
+# RCProbe: 不做混淆，保留字段名便于对照 hilog
+-enable-property-obfuscation=false

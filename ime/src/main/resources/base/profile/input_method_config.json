@@ -1,0 +1,11 @@
+{
+  "subtypes": [
+    {
+      "icon": "$media:icon",
+      "id": "RCProbeIme",
+      "label": "$string:ime_subtype_label",
+      "locale": "zh-CN",
+      "mode": "lower"
+    }
+  ]
+}

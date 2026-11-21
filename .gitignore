@@ -1,0 +1,57 @@
+# Build outputs and caches
+build/
+**/build/
+.hvigor/
+**/.hvigor/
+oh_modules/
+node_modules/
+*.hap
+*.har
+*.hsp
+*.app
+*.so
+*.a
+*.dll
+*.dylib
+*.tsbuildinfo
+
+# Local environment / IDE state
+local.properties
+.idea/
+.vscode/
+.preview/
+.clangd/
+.cxx/
+.DS_Store
+Thumbs.db
+
+# Secrets, signing material and certificates
+.env
+.env.*
+*.env
+*.p12
+*.p7b
+*.pfx
+*.cer
+*.crt
+*.pem
+*.key
+*.keystore
+*.jks
+*.p8
+*.mobileprovision
+*.provisionprofile
+**/profile.p7b
+**/profile.json
+**/signing/
+**/signing-material/
+**/certs/
+**/certificates/
+**/emulator-signing/
+
+# Logs and local test artifacts
+*.log
+*.tmp
+*.bak
+# 注意：docs/screenshots/ 是实测证据，要入库；只忽略工程外的临时截图目录
+/shots/
